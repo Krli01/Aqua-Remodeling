@@ -1,8 +1,0 @@
-node_modules
-dist
-
-# macOS
-.DS_Store
-
-# Ignore specific image
-Spray.jpeg
