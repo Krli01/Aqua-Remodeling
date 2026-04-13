@@ -1,0 +1,248 @@
+{
+  "common": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "faq": "Preguntas Frecuentes",
+    "contact": "Contacto"
+  },
+  "header": {
+    "logo": "Logo de Aqua Remodeling",
+    "nav": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "about": "Sobre Nosotros",
+      "contact": "Contacto",
+      "faq": "Preguntas Frecuentes"
+    },
+    "cta": "Contáctanos",
+    "language": {
+      "en": "EN",
+      "es": "ES"
+    }
+  },
+  "footer": {
+    "tagline": "Creamos espacios de ensueño",
+    "about": "Aqua Remodeling LLC ofrece renovaciones residenciales y comerciales en el sur de Florida con gestión integral de permisos y atención bilingüe.",
+    "quick_links": {
+      "title": "Enlaces Rápidos",
+      "home": "Inicio",
+      "services": "Servicios",
+      "about": "Sobre Nosotros",
+      "contact": "Contacto",
+      "faq": "Preguntas Frecuentes",
+      "sitemap": "Mapa del Sitio"
+    },
+    "services": {
+      "title": "Servicios",
+      "bathroom_remodeling": "Remodelación de Baños",
+      "kitchen_remodeling": "Remodelación de Cocinas",
+      "general_contractor": "Contratista General",
+      "general_plumbing": "Plomería General",
+      "painting": "Pintura Interior y Exterior"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio"
+    },
+    "contact": {
+      "title": "Contacto",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@ejemplo.com"
+    },
+    "crescendo": "Impulsado por Crescendo Marketing",
+    "copyright": "© {{year}} Aqua Remodeling LLC. Todos los derechos reservados.",
+    "copyright_rights": "Todos los derechos reservados."
+  },
+  "sitemap": {
+    "title": "Mapa del Sitio",
+    "description": "Encuentra todas las páginas públicas del sitio de Aqua Remodeling.",
+    "heading": "Mapa del Sitio",
+    "intro": "Usa estos enlaces para navegar por las páginas principales de Aqua Remodeling.",
+    "home_description": "Vuelve a la página de inicio y descubre nuestros servicios de remodelación.",
+    "services_description": "Explora nuestras ofertas de servicios de remodelación y soluciones.",
+    "about_description": "Conoce más sobre Aqua Remodeling y nuestra misión en el sur de Florida.",
+    "faq_description": "Consulta respuestas a preguntas comunes sobre remodelación y permisos.",
+    "contact_description": "Contacta a nuestro equipo bilingüe para tu próximo proyecto.",
+    "page_description": "Esta página muestra las rutas principales disponibles en el sitio."
+  },
+  "testimonials": {
+    "badge": "Testimonios",
+    "title": "Clientes Satisfechos",
+    "subtitle": "Descubre por qué cientos de clientes confían en nuestros servicios cada día."
+  },
+  "floating": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp"
+  },
+  "home": {
+    "hero": {
+      "title": "Creamos espacios de ensueño con gestión de remodelación sin estrés.",
+      "subtitle": "Aqua Remodeling LLC se encarga de permisos, contratistas y ejecución de calidad para baños, cocinas, plomería, pintura y remodelaciones completas.",
+      "cta": "Solicitar Cotización"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Servicios expertos de remodelación para hogares y negocios en el sur de Florida.",
+      "cta": "Contáctanos"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Respuestas a preguntas comunes sobre remodelación y permisos.",
+      "cta": "Ver Todas las FAQs"
+    },
+    "contact": {
+      "title": "¿Listo para comenzar tu proyecto?",
+      "subtitle": "Contacta a nuestro equipo bilingüe hoy para una consulta gratuita.",
+      "cta": "Enviar Mensaje"
+    }
+  },
+  "about": {
+    "seo": {
+      "title": "Sobre Aqua Remodeling LLC",
+      "description": "Conoce a Aqua Remodeling LLC, una empresa de renovación del sur de Florida especializada en remodelación, pintura, plomería y gestión de contratistas."
+    },
+    "title": "Sobre Aqua Remodeling",
+    "description": "Somos Aqua Remodeling LLC, una empresa dedicada a la renovación, especializada en remodelación residencial y comercial en el sur de Florida. Ponemos todo nuestro esfuerzo, dedicación y conocimiento para hacer de su proyecto un éxito.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "Ayudamos a propietarios de viviendas y negocios a transformar espacios sin el estrés de manejar permisos, contratistas o logística de construcción."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "text": "Ser el socio de remodelación de confianza en el sur de Florida que entrega proyectos hermosos, cumplidores, a tiempo y con un servicio excepcional al cliente."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "professionalism": {
+        "title": "Profesionalismo",
+        "text": "Comunicación constante, contratistas con licencia y entrega de proyectos confiable."
+      },
+      "quality": {
+        "title": "Calidad",
+        "text": "Acabados de alta calidad y atención al detalle en cada remodelación."
+      },
+      "customer_satisfaction": {
+        "title": "Satisfacción del cliente",
+        "text": "Un enfoque de servicio bilingüe que hace que los clientes se sientan informados y seguros."
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Descubre cómo podemos ayudarte con tu remodelación.",
+    "cta": "Solicitar Información",
+    "bathroom_remodeling": {
+      "title": "Remodelación de Baños",
+      "description": "Remodelaciones completas de baños con gestión de permisos y coordinación de oficios para evitar complicaciones."
+    },
+    "kitchen_remodeling": {
+      "title": "Remodelación de Cocinas",
+      "description": "Renovación de cocinas enfocada en calidad, funcionalidad y cumplimiento arquitectónico para hogares de Florida."
+    },
+    "general_contractor": {
+      "title": "Contratista General",
+      "description": "Gestión integral de proyectos para remodelaciones locales y a distancia, con actualizaciones periódicas."
+    },
+    "general_plumbing": {
+      "title": "Plomería General",
+      "description": "Servicios de plomería con experiencia en trámites municipales y permisos de instalación."
+    },
+    "painting": {
+      "title": "Pintura Interior y Exterior",
+      "description": "Pintura profesional con limpieza, rapidez y acabados de alta calidad para interiores y exteriores."
+    },
+    "header": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Explora los servicios de remodelación que ofrecemos en el sur de Florida."
+    },
+    "cards": [
+      {
+        "title": "Remodelación de Baños",
+        "description": "Remodelación llave en mano con soporte de permisos y coordinación de oficios.",
+        "cta": "Solicitar Cotización"
+      },
+      {
+        "title": "Remodelación de Cocinas",
+        "description": "Renovaciones de cocinas hechas para durabilidad, belleza y funcionalidad.",
+        "cta": "Solicitar Cotización"
+      },
+      {
+        "title": "Contratista General",
+        "description": "Administración de proyectos para una construcción fluida de inicio a fin.",
+        "cta": "Solicitar Cotización"
+      },
+      {
+        "title": "Plomería General",
+        "description": "Servicios de plomería expertos para permisos, inspecciones e instalaciones.",
+        "cta": "Solicitar Cotización"
+      },
+      {
+        "title": "Pintura",
+        "description": "Pintura interior y exterior con cuidado del sitio y acabados premium.",
+        "cta": "Solicitar Cotización"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Respuestas a preguntas comunes sobre remodelación, permisos y gestión de proyectos.",
+    "items": [
+      {
+        "question": "¿Manejan los permisos para proyectos de remodelación?",
+        "answer": "Sí. Gestionamos todo el papeleo de permisos y coordinamos con las autoridades locales para que su proyecto cumpla con los requisitos."
+      },
+      {
+        "question": "¿Pueden supervisar proyectos si no estoy en el sur de Florida?",
+        "answer": "Claro. Ofrecemos seguimiento remoto con actualizaciones frecuentes, fotos y reportes de avance."
+      },
+      {
+        "question": "¿Qué tipos de servicios de remodelación ofrecen?",
+        "answer": "Ofrecemos remodelaciones de baños y cocinas, contratista general, plomería y pintura interior/exterior."
+      },
+      {
+        "question": "¿Cómo coordinan a los diferentes contratistas?",
+        "answer": "Nuestro equipo programa y gestiona cada oficio para que la remodelación avance de forma ordenada y eficiente."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para ayudarte a iniciar tu remodelación.",
+    "info": {
+      "title": "Información de Contacto",
+      "location_title": "Ubicación",
+      "contact_title": "Teléfono",
+      "email_title": "Correo Electrónico",
+      "hours_title": "Horario de Atención",
+      "english_service": "Servicio en inglés",
+      "spanish_service": "Servicio en español",
+      "location": "3831 SW 160th Ave, Miramar, FL 33027",
+      "phone": "+1 (754) 248-5034",
+      "email": "aquaremodelingllc@gmail.com",
+      "hours": "Lunes - Viernes: 7:30 AM - 6:00 PM",
+      "languages": "Inglés, Español"
+    },
+    "form": {
+      "heading": "Envíanos un mensaje",
+      "name": "Nombre Completo",
+      "name_placeholder": "Ingrese su nombre completo",
+      "email": "Correo Electrónico",
+      "email_placeholder": "Ingrese su correo electrónico",
+      "phone": "Teléfono",
+      "phone_placeholder": "Ingrese su número de teléfono",
+      "service": "Servicio",
+      "service_placeholder": "Seleccione un servicio",
+      "service_info": "Contacto General",
+      "service_other": "Otro",
+      "message": "Mensaje",
+      "message_placeholder": "Escriba su mensaje",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado exitosamente!",
+      "error": "Error al enviar el mensaje. Por favor intente nuevamente."
+    }
+  }
+}

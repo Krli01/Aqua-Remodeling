@@ -1,0 +1,248 @@
+{
+  "common": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "header": {
+    "logo": "Aqua Remodeling Logo",
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About",
+      "contact": "Contact",
+      "faq": "FAQ"
+    },
+    "cta": "Contact Us",
+    "language": {
+      "en": "EN",
+      "es": "ES"
+    }
+  },
+  "footer": {
+    "tagline": "We create dream spaces",
+    "about": "Aqua Remodeling LLC delivers South Florida residential and commercial renovations with permit support and bilingual service.",
+    "quick_links": {
+      "title": "Quick Links",
+      "home": "Home",
+      "services": "Services",
+      "about": "About",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "sitemap": "Sitemap"
+    },
+    "services": {
+      "title": "Services",
+      "bathroom_remodeling": "Bathroom Remodeling",
+      "kitchen_remodeling": "Kitchen Remodeling",
+      "general_contractor": "General Contractor",
+      "general_plumbing": "General Plumbing",
+      "painting": "Interior & Exterior Painting"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@ejemplo.com"
+    },
+    "crescendo": "Powered by Crescendo Marketing",
+    "copyright": "© {{year}} Aqua Remodeling LLC. All rights reserved.",
+    "copyright_rights": "All rights reserved."
+  },
+  "sitemap": {
+    "title": "Sitemap",
+    "description": "Find every public page on the Aqua Remodeling site.",
+    "heading": "Sitemap",
+    "intro": "Use these links to navigate the main pages of Aqua Remodeling.",
+    "home_description": "Return to the homepage and discover our renovation services.",
+    "services_description": "Explore our remodeling service offerings and solutions.",
+    "about_description": "Learn more about Aqua Remodeling and our mission in South Florida.",
+    "faq_description": "See answers to common remodeling and permit questions.",
+    "contact_description": "Get in touch with our bilingual team for your next project.",
+    "page_description": "This page lists the main routes available on the site."
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Satisfied Clients",
+    "subtitle": "Discover why hundreds of clients trust our services every day."
+  },
+  "floating": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp"
+  },
+  "home": {
+    "hero": {
+      "title": "We create dream spaces with stress-free renovation management.",
+      "subtitle": "Aqua Remodeling LLC handles permits, contractors and quality execution for bathrooms, kitchens, plumbing, painting and full remodeling projects.",
+      "cta": "Request a Quote"
+    },
+    "services": {
+      "title": "Our Remodeling Services",
+      "subtitle": "Expert renovation services for homes and businesses across South Florida.",
+      "cta": "Contact Us"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common remodeling and permit management questions.",
+      "cta": "See All FAQs"
+    },
+    "contact": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Contact our bilingual team today for a free consultation.",
+      "cta": "Send Message"
+    }
+  },
+  "about": {
+    "seo": {
+      "title": "About Aqua Remodeling LLC",
+      "description": "Learn about Aqua Remodeling LLC, a South Florida renovation company specializing in remodeling, painting, plumbing and contractor management."
+    },
+    "title": "About Aqua Remodeling",
+    "description": "We are Aqua Remodeling LLC, a company dedicated to renovation specialized in residential and commercial remodeling in South Florida. We put all our effort, dedication and knowledge into making your project a success.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "We help homeowners and business owners transform spaces without the stress of juggling permits, contractors, or construction logistics."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be the trusted South Florida remodeling partner that delivers beautiful, compliant projects on time and with exceptional client service."
+    },
+    "values": {
+      "title": "Our Values",
+      "professionalism": {
+        "title": "Professionalism",
+        "text": "Consistent communication, licensed contractors and reliable project delivery."
+      },
+      "quality": {
+        "title": "Quality",
+        "text": "High-quality finishes and attention to detail on every renovation."
+      },
+      "customer_satisfaction": {
+        "title": "Customer satisfaction",
+        "text": "A bilingual service approach that makes clients feel informed and confident."
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Discover how we can help you achieve your remodeling goals.",
+    "cta": "Request Information",
+    "bathroom_remodeling": {
+      "title": "Bathroom Remodeling",
+      "description": "Full bathroom renovations with permit handling and coordinated trades so clients avoid the stress of multiple contractors."
+    },
+    "kitchen_remodeling": {
+      "title": "Kitchen Remodeling",
+      "description": "Kitchen renovation with a focus on quality, functionality, and architectural compliance for Florida homes."
+    },
+    "general_contractor": {
+      "title": "General Contractor",
+      "description": "End-to-end project management for remote and local renovations, with regular updates and trusted subcontractor coordination."
+    },
+    "general_plumbing": {
+      "title": "General Plumbing",
+      "description": "Professional plumbing services backed by local permit expertise and smooth municipal approvals."
+    },
+    "painting": {
+      "title": "Interior & Exterior Painting",
+      "description": "Professional painting with fast, clean execution and excellent surface preparation for interior and exterior spaces."
+    },
+    "header": {
+      "title": "Our Services",
+      "subtitle": "Browse the renovation services we offer throughout South Florida."
+    },
+    "cards": [
+      {
+        "title": "Bathroom Remodeling",
+        "description": "Turnkey bathroom renovation with permit support and full trade coordination.",
+        "cta": "Request Quote"
+      },
+      {
+        "title": "Kitchen Remodeling",
+        "description": "Custom kitchen remodeling built for durability, beauty and function.",
+        "cta": "Request Quote"
+      },
+      {
+        "title": "General Contractor",
+        "description": "Project management for seamless construction from design to delivery.",
+        "cta": "Request Quote"
+      },
+      {
+        "title": "General Plumbing",
+        "description": "Experienced plumbing services for permits, inspections and installations.",
+        "cta": "Request Quote"
+      },
+      {
+        "title": "Painting",
+        "description": "Interior and exterior painting with clean site care and premium finishes.",
+        "cta": "Request Quote"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to common questions about remodeling, permits, and project management.",
+    "items": [
+      {
+        "question": "Do you handle permit applications for remodeling projects?",
+        "answer": "Yes. We manage all permit paperwork and coordinate with local jurisdictions so your project stays compliant."
+      },
+      {
+        "question": "Can you manage projects when I am not in South Florida?",
+        "answer": "Absolutely. We offer remote project oversight with frequent updates, photos and status reports."
+      },
+      {
+        "question": "What types of remodeling services do you offer?",
+        "answer": "We provide bathroom and kitchen remodeling, general contracting, plumbing services, and interior/exterior painting."
+      },
+      {
+        "question": "How do you coordinate multiple contractors?",
+        "answer": "Our team schedules and manages each trade, from plumbing and electrical to finishes, so the renovation moves smoothly."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you start your renovation project.",
+    "info": {
+      "title": "Contact Information",
+      "location_title": "Location",
+      "contact_title": "Phone",
+      "email_title": "Email",
+      "hours_title": "Business Hours",
+      "english_service": "English service",
+      "spanish_service": "Spanish service",
+      "location": "3831 SW 160th Ave, Miramar, FL 33027",
+      "phone": "+1 (754) 248-5034",
+      "email": "aquaremodelingllc@gmail.com",
+      "hours": "Monday - Friday: 7:30 AM - 6:00 PM",
+      "languages": "English, Spanish"
+    },
+    "form": {
+      "heading": "Send us a message",
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "Enter your email address",
+      "phone": "Phone Number",
+      "phone_placeholder": "Enter your phone number",
+      "service": "Service",
+      "service_placeholder": "Select a service",
+      "service_info": "General Contact",
+      "service_other": "Other",
+      "message": "Your Message",
+      "message_placeholder": "Enter your message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    }
+  }
+}
